@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Test.unity
+    guid: 804d2a9b052c93940b200fa16c89f9b4
+  - enabled: 1
+    path: Assets/Scenes/Hueso/Hueso(Epifisis1).unity
+    guid: f7b1a3b89fb1f4142b5bfa9ef97fa1b6
+  - enabled: 1
+    path: Assets/Scenes/Hueso/Hueso(Diafisis).unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Hueso/Hueso(Epifisis2).unity
+    guid: c159abdcc4af27e4796ea108ea161ef6
+  - enabled: 1
+    path: Assets/Scenes/ColumnaVertebral.unity
+    guid: 3a48c7502b891894b9025d0b74ec9d1e
+  - enabled: 1
+    path: Assets/Scenes/Corazon.unity
+    guid: 4203e7ad2400e77488170924cd170a61
+  - enabled: 1
+    path: Assets/Scenes/Pulmon.unity
+    guid: eb8623b319ae92b4f869235cd2203e3f
+  m_configObjects: {}

@@ -1,0 +1,10 @@
+Cada extremidad superior consta de 35 huesos. Estos incluyen por brazo:
+1 humero, 1 radio, 1 ulna, los carpos (huesos de las muñecas), los metacarpianos (huesos de la palma) y los huesos de los dedos de cada mano. 
+Los carpos se dividen en dos filas:
+La proximal, que se compone de los huesos pisiforme, piramidal, semilunar y escafoideo.
+La distal, que se compone de los huesos ganchudo, hueso grande, trapezoideo y trapecio. 
+Los metacarpos son 5 huesos que componen la parte de la palma, y se dividen en tres: La base proximal,  el tallo y una cabeza distal. 
+Los metacarpianos son 5 huesos que se numeran del 1 al 5 empezando del pulgar y terminando con el dedo meñique. 
+Las falanges son en total 14 por cada mano, el pulgar tiene dos falanges y los demás poseen 3 falanges a diferencia del pulgar. 
+Las falanges se nombran por filas:
+Primero la fila proximal que articula con los metacarpianos, después la fila media que se articula con la fila proximal, y por último la fila distal que se articula con la fila media. 
